@@ -1,5 +1,9 @@
-<h1 align="center">Hi!! I'm Danny 👋</h1>
+ # <a href="https://www.nothinghere.com">Danny Garcia</a> 
+ 
+ ## About :sunglasses:
+Hey! I'm Danny, I'm currently a junior in High School. I started getting intrested in code around the end of Freshmen year. My goal is to one day major in Computer Science & Computer Engineering. 
 
-<h3 align="center">I'm Learning how to write code!</h3>
+## Languages I'm Learning :dancers:
+[![Language](https://skillicons.dev/icons?i=ts,html,css)](https://skillicons.dev)
 
-[![Currently Learning](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+
